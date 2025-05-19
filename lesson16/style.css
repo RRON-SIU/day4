@@ -1,0 +1,27 @@
+a[href="https//shkolladigjitale.com/"]{
+       color: blue;
+}
+
+p[class*="ds"]{
+    background-color: blueviolet;
+    color: aqua;
+    padding: 20;
+}
+
+div[id^="ds"]{
+    background-color:darkgreen ;
+    color: black;
+    padding: 20px;
+
+}
+img[title^="blue"]{
+    border:2px solid green ;
+}
+h1[class|="heading"]{
+    background-color: rgb(214, 176, 7);
+    color: maroon;
+    padding: 20px;
+}
+
+input[placeholder$]
+
